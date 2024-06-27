@@ -50,6 +50,7 @@ Once the contract is deployed, you can interact with it by calling all the funct
 
 ## Author
 
-GAURAV GARG
-STUDENT
+SHAURYA ANAND
+STUDENT 
+AT
 CHANDIGARH UNIVERSITY
